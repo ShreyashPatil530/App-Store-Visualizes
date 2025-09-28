@@ -153,7 +153,7 @@ Minimum 4GB RAM (8GB recommended for large datasets)
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/App-Store-Visualizes.git
+git clone https://github.com/ShreyashPatil530/App-Store-Visualizes
 cd App-Store-Visualizes
 ```
 
@@ -499,7 +499,7 @@ We welcome contributions from app developers, data scientists, market researcher
 - 🐙 GitHub: https://github.com/ShreyashPatil530
 
 ### Project Links
-- **GitHub Repository**: https://github.com/ShreyashPatil530/App-Store-Visualizes/edit/main/tree
+- **GitHub Repository**: https://github.com/ShreyashPatil530/App-Store-Visualizes
 - **Live Dashboard**:See The given Screanshort
 - **Documentation Site**: View the Documet.
 ### Support & Community
